@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>282.jpeg</filename>
+	<path>D:\Studies\Project\Dataset\Train\282.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>salt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>940</ymin>
+			<xmax>431</xmax>
+			<ymax>1397</ymax>
+		</bndbox>
+	</object>
+</annotation>
