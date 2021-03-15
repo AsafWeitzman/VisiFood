@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>44.jpeg</filename>
+	<path>D:\Studies\Project\Dataset\Train\44.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>777</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>1055</ymin>
+			<xmax>464</xmax>
+			<ymax>1223</ymax>
+		</bndbox>
+	</object>
+</annotation>
