@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>72.jpeg</filename>
+	<path>D:\Studies\Project\Dataset\Train\72.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sugar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>1216</ymin>
+			<xmax>624</xmax>
+			<ymax>1463</ymax>
+		</bndbox>
+	</object>
+</annotation>
